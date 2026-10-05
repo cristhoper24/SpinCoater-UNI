@@ -24,7 +24,7 @@ El objetivo principal es construir un Spin Coater funcional capaz de mantener un
 - Secuencia de arranque y parada del motor.
 - Estabilidad de velocidad bajo diferentes cargas.
 
-El proyecto toma como una de sus principales referencias técnicas al **Maasi Spin Coater**, un sistema de hardware abierto basado en un motor BLDC, un ESP32 y control de velocidad en lazo cerrado. :chatgpt-content-reference{index="0"}
+El proyecto toma como una de sus principales referencias técnicas al **Maasi Spin Coater**, un sistema de hardware abierto basado en un motor BLDC, un ESP32 y control de velocidad en lazo cerrado.
 
 ---
 
