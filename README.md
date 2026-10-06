@@ -62,9 +62,9 @@ A partir de este error, el controlador modifica la señal aplicada al sistema de
 
 | Foto | Nombre | Rol |
 |---|---|---|
-| <img src="Resources/Images/integrante1.jpg" width="150"> | Nombre del integrante | Responsable de ... |
-| <img src="Resources/Images/integrante2.jpg" width="150"> | Nombre del integrante | Responsable de ... |
-| <img src="Resources/Images/integrante3.jpg" width="150"> | Nombre del integrante | Responsable de ... |
+| <img src="Resources/Images/integrante1.jpg" width="150"> | Alexis Calderon Quispe   | Responsable de ... |
+| <img src="Resources/Images/integrante2.jpg" width="150"> | Kevin Diaz Colonia       | Responsable de ... |
+| <img src="Resources/Images/integrante3.jpg" width="150"> | Cristhoper Yañez Malpica | Responsable de ... |
 
 **Proyecto de Instrumentación - 2026**
 
