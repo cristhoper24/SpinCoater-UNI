@@ -42,15 +42,17 @@ De forma general, el sistema estará compuesto por:
 
 El error utilizado por el sistema de control puede expresarse como:
 
-\[
+El error utilizado por el sistema de control puede expresarse como:
+
+$$
 e(t) = \omega_{ref}(t) - \omega(t)
-\]
+$$
 
 donde:
 
-- \(e(t)\) es el error de velocidad.
-- \(\omega_{ref}(t)\) es la velocidad angular deseada.
-- \(\omega(t)\) es la velocidad angular medida.
+- $e(t)$ es el error de velocidad.
+- $\omega_{ref}(t)$ es la velocidad angular deseada.
+- $\omega(t)$ es la velocidad angular medida.
 
 A partir de este error, el controlador modifica la señal aplicada al sistema de accionamiento con el objetivo de mantener la velocidad del sustrato cercana al valor de referencia.
 
